@@ -1,0 +1,4 @@
+Product ID: 12345
+Name: sachin
+Price: $19.99
+In Stock: Yes
